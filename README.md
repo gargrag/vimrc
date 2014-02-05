@@ -14,3 +14,4 @@ just copy this repo vimrc file to ~/.vimrc, save it, open vim, and run:
 	
 This will download each plugin and install it for you
 
+## Main Features
